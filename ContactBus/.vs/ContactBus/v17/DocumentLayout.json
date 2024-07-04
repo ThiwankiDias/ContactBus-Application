@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\learn angular\\AspDotNetCore-Angular\\ContactBus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0007C21A-4E77-4537-B8B9-FE4F3584379F}|ContactBus\\ContactBus.csproj|d:\\learn angular\\aspdotnetcore-angular\\contactbus\\contactbus\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0007C21A-4E77-4537-B8B9-FE4F3584379F}|ContactBus\\ContactBus.csproj|solutionrelative:contactbus\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0007C21A-4E77-4537-B8B9-FE4F3584379F}|ContactBus\\ContactBus.csproj|d:\\learn angular\\aspdotnetcore-angular\\contactbus\\contactbus\\models\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0007C21A-4E77-4537-B8B9-FE4F3584379F}|ContactBus\\ContactBus.csproj|solutionrelative:contactbus\\models\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0007C21A-4E77-4537-B8B9-FE4F3584379F}|ContactBus\\ContactBus.csproj|d:\\learn angular\\aspdotnetcore-angular\\contactbus\\contactbus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0007C21A-4E77-4537-B8B9-FE4F3584379F}|ContactBus\\ContactBus.csproj|solutionrelative:contactbus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0007C21A-4E77-4537-B8B9-FE4F3584379F}|ContactBus\\ContactBus.csproj|d:\\learn angular\\aspdotnetcore-angular\\contactbus\\contactbus\\models\\addcontactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0007C21A-4E77-4537-B8B9-FE4F3584379F}|ContactBus\\ContactBus.csproj|solutionrelative:contactbus\\models\\addcontactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0007C21A-4E77-4537-B8B9-FE4F3584379F}|ContactBus\\ContactBus.csproj|d:\\learn angular\\aspdotnetcore-angular\\contactbus\\contactbus\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0007C21A-4E77-4537-B8B9-FE4F3584379F}|ContactBus\\ContactBus.csproj|solutionrelative:contactbus\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0007C21A-4E77-4537-B8B9-FE4F3584379F}|ContactBus\\ContactBus.csproj|d:\\learn angular\\aspdotnetcore-angular\\contactbus\\contactbus\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0007C21A-4E77-4537-B8B9-FE4F3584379F}|ContactBus\\ContactBus.csproj|solutionrelative:contactbus\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddContactRequestDTO.cs",
+              "DocumentMoniker": "D:\\learn angular\\AspDotNetCore-Angular\\ContactBus\\ContactBus\\Models\\AddContactRequestDTO.cs",
+              "RelativeDocumentMoniker": "ContactBus\\Models\\AddContactRequestDTO.cs",
+              "ToolTip": "D:\\learn angular\\AspDotNetCore-Angular\\ContactBus\\ContactBus\\Models\\AddContactRequestDTO.cs",
+              "RelativeToolTip": "ContactBus\\Models\\AddContactRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T05:06:15.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "D:\\learn angular\\AspDotNetCore-Angular\\ContactBus\\ContactBus\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "ContactBus\\Controllers\\ContactsController.cs",
+              "ToolTip": "D:\\learn angular\\AspDotNetCore-Angular\\ContactBus\\ContactBus\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "ContactBus\\Controllers\\ContactsController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAQwEwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T04:15:38.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\learn angular\\AspDotNetCore-Angular\\ContactBus\\ContactBus\\Program.cs",
+              "RelativeDocumentMoniker": "ContactBus\\Program.cs",
+              "ToolTip": "D:\\learn angular\\AspDotNetCore-Angular\\ContactBus\\ContactBus\\Program.cs",
+              "RelativeToolTip": "ContactBus\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T04:09:53.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\learn angular\\AspDotNetCore-Angular\\ContactBus\\ContactBus\\Models\\Domain\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactBus\\Models\\Domain\\Contact.cs",
+              "ToolTip": "D:\\learn angular\\AspDotNetCore-Angular\\ContactBus\\ContactBus\\Models\\Domain\\Contact.cs",
+              "RelativeToolTip": "ContactBus\\Models\\Domain\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:58:00.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\learn angular\\AspDotNetCore-Angular\\ContactBus\\ContactBus\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ContactBus\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\learn angular\\AspDotNetCore-Angular\\ContactBus\\ContactBus\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ContactBus\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:19:00.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\learn angular\\AspDotNetCore-Angular\\ContactBus\\ContactBus\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ContactBus\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\learn angular\\AspDotNetCore-Angular\\ContactBus\\ContactBus\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ContactBus\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T09:14:10.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@ContactBus_HostAddress = http://localhost:5115
+
+GET {{ContactBus_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
